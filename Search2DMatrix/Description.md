@@ -1,5 +1,6 @@
-### Search a 2D Matrix                                                                                                            Medium
+### Search a 2D Matrix                                                                                                            
 ---
+<span style='color: yellow;'>Medium</span>
 
 You are given an m x n integer matrix matrix with the following two properties:
 
