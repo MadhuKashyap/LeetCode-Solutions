@@ -1,7 +1,5 @@
 ### Search a 2D Matrix                                                                                                            
 ---
-<span style='color: yellow;'>Medium</span>
-A very <span style='color: red;'>long</span> sentence.
 
 You are given an m x n integer matrix matrix with the following two properties:
 
